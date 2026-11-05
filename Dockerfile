@@ -20,4 +20,7 @@ RUN npm run build
 EXPOSE 3000
 
 # Start the React app when the container starts
-CMD [ "npm", "start" ]
+CMD [ "npm", "start" ]  
+
+
+----adding some data to check if the jenkins is configured correctly----
